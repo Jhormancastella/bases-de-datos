@@ -125,3 +125,19 @@ CREATE TABLE cuentas_por_saldar (
 );
 
 ```
+Hecho por (jhorman jesus castellanos morales )
+
+> [!NOTE]
+> complicaciones 
+
+> [!TIP]
+> 
+
+> [!IMPORTANT]  
+> se encuntra culminado 
+
+> [!WARNING]  
+> 
+
+> [!CAUTION]
+>
